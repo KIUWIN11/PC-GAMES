@@ -6,9 +6,9 @@ services:
       VERSION: "11"
       RAM_SIZE: "16G"
       CPU_CORES: "4"
-      DISK_SIZE: "256G"
-      USERNAME: "PRKGG"
-      PASSWORD: "8888"
+      DISK_SIZE: "513G"
+      USERNAME: "Kiubby"
+      PASSWORD: "kiubby"
     devices:
       - /dev/kvm
       - /dev/net/tun
